@@ -5,7 +5,8 @@
 - 🏆Diatleta
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyDamacena&show_icons=true&theme=transparent)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyDamacena&hide_progress=truecompact&theme=transparent)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyDamacena&hide_progress=true&theme=transparent&cache_seconds=1800)
+
 
   <div>
     <img aling="center"alt="antony_python"height="30" widght="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
