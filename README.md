@@ -2,7 +2,7 @@
 - 🦗 Sou estudante, começando no mundo da programação 📖
 - 🌱Estudando python
 - 🎒1°Ano Ensino médio
-- 🏆Diatleta
+- 🏆Triatleta
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AntonyDamacena&show_icons=true&theme=transparent)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntonyDamacena&hide_progress=truecompact&theme=transparent&cache_seconds=3600)
