@@ -18,12 +18,12 @@
 
 <div style="text-align: center;">
    <a href="https://www.instagram.com//"> 
-       <img alt="Instagram" height="30" width="40" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+       <img alt="Instagram" height="140" width="140" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
    </a>
    <a href="https://www.br.linkedin.com">
-       <img alt="LinkedIn" height="30" width="40" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+       <img alt="LinkedIn" height="100" width="100" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
    </a>
    <a href="https://www.gmail.com">
-       <img alt="Gmail" height="30" width="40" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+       <img alt="Gmail" height="100" width="100" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
    </a>
 </div>
